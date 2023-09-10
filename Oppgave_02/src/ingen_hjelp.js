@@ -10,7 +10,7 @@ const users = [
     {id: 7, name: "Åse", age: 43},
     {id: 8, name: "Anne", age: 6},
     {id: 9, name: "Amanda", age: 3},
-    {id: 10, name: "Morgan", age: 7},
+    {id: 10, name: "Morgan", age: 87},
 ];
 
 const nameInput = document.getElementById("name");
